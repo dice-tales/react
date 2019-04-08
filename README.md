@@ -1,2 +1,3 @@
-# react
-A repository for all React artifacts
+# react-renderer
+A repository for all forum rendering files
+Powered by React
